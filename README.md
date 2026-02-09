@@ -40,14 +40,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/IceFalc0n/IceFalc0n/output/snake.svg" alt="Snake animation" />
-
-###
